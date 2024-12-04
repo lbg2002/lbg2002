@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lbg2002
-- 👀 I’m interested in pyrhon RL
+- 👀 I’m interested in python RL and llm
 - 🌱 I’m currently learning RL
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me :lbg2002@petalmail.com
